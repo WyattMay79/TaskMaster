@@ -1,0 +1,15 @@
+C:\Users\wyatt\Desktop\C#-Practice\C#MasterClass\ConsoleTodoList\obj\Debug\net7.0\ConsoleTodoList.csproj.AssemblyReference.cache
+C:\Users\wyatt\Desktop\C#-Practice\C#MasterClass\ConsoleTodoList\obj\Debug\net7.0\ConsoleTodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wyatt\Desktop\C#-Practice\C#MasterClass\ConsoleTodoList\obj\Debug\net7.0\ConsoleTodoList.AssemblyInfoInputs.cache
+C:\Users\wyatt\Desktop\C#-Practice\C#MasterClass\ConsoleTodoList\obj\Debug\net7.0\ConsoleTodoList.AssemblyInfo.cs
+C:\Users\wyatt\Desktop\C#-Practice\C#MasterClass\ConsoleTodoList\obj\Debug\net7.0\ConsoleTodoList.csproj.CoreCompileInputs.cache
+C:\Users\wyatt\Desktop\C#-Practice\C#MasterClass\ConsoleTodoList\bin\Debug\net7.0\ConsoleTodoList.exe
+C:\Users\wyatt\Desktop\C#-Practice\C#MasterClass\ConsoleTodoList\bin\Debug\net7.0\ConsoleTodoList.deps.json
+C:\Users\wyatt\Desktop\C#-Practice\C#MasterClass\ConsoleTodoList\bin\Debug\net7.0\ConsoleTodoList.runtimeconfig.json
+C:\Users\wyatt\Desktop\C#-Practice\C#MasterClass\ConsoleTodoList\bin\Debug\net7.0\ConsoleTodoList.dll
+C:\Users\wyatt\Desktop\C#-Practice\C#MasterClass\ConsoleTodoList\bin\Debug\net7.0\ConsoleTodoList.pdb
+C:\Users\wyatt\Desktop\C#-Practice\C#MasterClass\ConsoleTodoList\obj\Debug\net7.0\ConsoleTodoList.dll
+C:\Users\wyatt\Desktop\C#-Practice\C#MasterClass\ConsoleTodoList\obj\Debug\net7.0\refint\ConsoleTodoList.dll
+C:\Users\wyatt\Desktop\C#-Practice\C#MasterClass\ConsoleTodoList\obj\Debug\net7.0\ConsoleTodoList.pdb
+C:\Users\wyatt\Desktop\C#-Practice\C#MasterClass\ConsoleTodoList\obj\Debug\net7.0\ConsoleTodoList.genruntimeconfig.cache
+C:\Users\wyatt\Desktop\C#-Practice\C#MasterClass\ConsoleTodoList\obj\Debug\net7.0\ref\ConsoleTodoList.dll
